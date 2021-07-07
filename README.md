@@ -1,4 +1,4 @@
-# CarpetCostCalculator2
+# CarpetCostCalculator
 
 I've done this for a coding challenge for my Java MasterClass Course.
 
